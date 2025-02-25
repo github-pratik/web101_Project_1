@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
+<img src="https://github.com/github-pratik/web101_Project_1/blob/main/web101.gif" alt="Demo" width="400">
 
 ## Notes
 
