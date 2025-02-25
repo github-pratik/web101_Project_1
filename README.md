@@ -31,10 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/) for macOS
+<img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
 
 ## Notes
 
