@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Tech Community Events*
 
-Submitted by: **Shashikant**
+Submitted by: **Pratik Patil**
 
 This web app: **A responsive event board showcasing various tech community events including workshops, meetups, and conferences. Users can view event details and register for events through direct links.**
 
@@ -48,7 +48,7 @@ Challenges encountered while building the app:
 
 ## License
 
-    Copyright [2024] [Shashikant]
+    Copyright [2024] [Pratik Patil]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
